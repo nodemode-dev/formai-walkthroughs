@@ -1,6 +1,6 @@
 # NOTICE
 
-This is the single full credit file for all twenty-three Form walkthrough videos (the sixteen first released, the six added in round nine: FormCel, FormTxt, FormTools, FormAT, FormRef and FormWeb, and FormDeck): what was used, where it is used, and the source and author of each item. Policy: only royalty-free, CC0 or public-domain material is used. The stock added by the video build is under the licences listed below (Mixkit Free License, never the Mixkit Restricted License; Pixabay Content License; Unsplash License; CC0 1.0). The media seen on screen from each app's demo is credited per video under the licence its source states (Pexels License, public domain, NASA media guidelines, CC0 and similar), and each video section also covers the owner's opening and ending cards. Each item is credited even where its licence does not require it, and GeoNames data in FormDAM requires attribution (CC BY 4.0), which is given. Material that is not stock is listed at the end.
+This is the single full credit file for all the Form walkthrough videos, one section per app (the videos first released, then the ones added in round nine: FormCel, FormTxt, FormTools, FormAT, FormRef and FormWeb, and FormDeck after those): what was used, where it is used, and the source and author of each item. Policy: only royalty-free, CC0 or public-domain material is used. The stock added by the video build is under the licences listed below (Mixkit Free License, never the Mixkit Restricted License; Pixabay Content License; Unsplash License; CC0 1.0). The media seen on screen from each app's demo is credited per video under the licence its source states (Pexels License, public domain, NASA media guidelines, CC0 and similar), and each video section also covers the owner's opening and ending cards. Each item is credited even where its licence does not require it, and GeoNames data in FormDAM requires attribution (CC BY 4.0), which is given. Material that is not stock is listed at the end.
 
 One exception to that policy: the FormDeck walkthrough's example deck is built from the content of grogo.com, which is not stock. All of it was approved for use by one of the company's co-founders; see the FormDeck section. That approval covers that video and its example deck only.
 
@@ -371,7 +371,7 @@ No stock video and no library sound effect is used in this video.
 
 ### Seen on screen from the app
 
-FormDeck is filmed live from source (https://github.com/nodemode-dev/formdeck, version 0.38.1, commit `bef1b41`, Apache 2.0), not from a bundled demo page. What the window shows is the example deck "Grogo · Pause the scroll, power up the mind", 26 slides, made for this walkthrough.
+FormDeck is filmed live from source (https://github.com/nodemode-dev/formdeck, version 0.38.1, commit `bef1b41`, Apache 2.0), not from a bundled demo page. What the window shows is the example deck "Grogo · Pause the scroll, power up the mind", made for this walkthrough and shared in this repository as `Grogo_Pause_the_scroll_power_up_the_mind-shareable.fdec`. That file holds 31 slides (counted from its `deck.json`); slide numbers given below are the numbers in that file.
 
 #### From grogo.com, used with the company's approval
 
